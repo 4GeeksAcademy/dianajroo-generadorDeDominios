@@ -9,3 +9,7 @@ window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
 };
+let pronoun = ["Los", "Nuestros"];
+let adj = ["mejores", "Grandes"];
+let noun = ["Lentes", "Autos"];
+let extension = [".com", ".es"];
